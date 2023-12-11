@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="profile_name">Sarthak Sonagara</string>
+    <string name="profile_title">Android Developer</string>
+    <string name="mobile_no">9274795700</string>
+    <string name="github">https://github.com/MrSMS0000</string>
+    <string name="email">sarthakmsonagara@gmail.com</string>
+</resources>
